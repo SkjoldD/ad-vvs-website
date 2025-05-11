@@ -31,15 +31,15 @@ const Navbar = () => {
       </div>
       {/* Center: Menu with icons */}
       <ul className="navbar-menu">
-        <li><a href="#"><span className="navbar-icon">♨️</span> Varmepumper</a></li>
-        <li><a href="#"><span className="navbar-icon">❄️</span> AC klimaanlæg</a></li>
-        <li><a href="#"><span className="navbar-icon">☀️</span> Solceller</a></li>
-        <li><a href="#"><span className="navbar-icon">🔋</span> Emaldo Batteri</a></li>
-        <li><a href="#"><span className="navbar-icon">🛠️</span> Serviceeftersyn</a></li>
+        <li><a href="#"><span className="navbar-icon">♨️</span><span className="navbar-menu-text">Varmepumper</span></a></li>
+        <li><a href="#"><span className="navbar-icon">❄️</span><span className="navbar-menu-text">AC klimaanlæg</span></a></li>
+        <li><a href="#"><span className="navbar-icon">☀️</span><span className="navbar-menu-text">Solceller</span></a></li>
+        <li><a href="#"><span className="navbar-icon">🔋</span><span className="navbar-menu-text">Emaldo Batteri</span></a></li>
+        <li><a href="#"><span className="navbar-icon">🛠️</span><span className="navbar-menu-text">Serviceeftersyn</span></a></li>
       </ul>
       {/* Right: Phone button */}
       <div className="navbar-right">
-        <a href="tel:51236205" className="navbar-phone-btn">📞 Tlf. 00 00 00 00</a>
+        <a href="tel:xxxx" className="navbar-phone-btn"><span className="navbar-phone-icon">📞</span><span className="navbar-phone-text">Tlf. 00 00 00 00</span></a>
       </div>
     </nav>
   );

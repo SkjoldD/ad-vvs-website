@@ -36,6 +36,25 @@
   gap: 56px;
 }
 
+@media (max-width: 800px) {
+  .hero-content {
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center;
+    text-align: center;
+  }
+  .hero-left {
+    order: 1 !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+  .hero-right {
+    order: 2 !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+}
+
 .hero-left {
   flex: 1.2;
   display: flex;
