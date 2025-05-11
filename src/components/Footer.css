@@ -1,0 +1,129 @@
+.footer {
+  background: #fafbfa;
+  border-top: 1.5px solid #e4eaf1;
+  padding: 56px 0 0 0;
+  color: #232323;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 32px;
+  padding: 0 24px;
+}
+
+.footer-col {
+  flex: 1 1 0;
+  min-width: 180px;
+  max-width: 270px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.footer-title {
+  font-size: 1.18rem;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+  color: #232323;
+  text-transform: uppercase;
+}
+
+.footer-item {
+  font-size: 1.01rem;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  color: #232323;
+  line-height: 1.4;
+}
+
+.footer-icon {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 2px;
+}
+
+.footer-social {
+  margin-top: 10px;
+}
+
+.footer-fb {
+  display: inline-flex;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #232323;
+}
+
+.footer-list li {
+  font-size: 1.01rem;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-weight: 500;
+}
+
+.footer-arrow {
+  color: #7dac20;
+  font-size: 1.18rem;
+  font-weight: 700;
+}
+
+.footer-cert {
+  align-items: flex-start;
+}
+
+.footer-cert-logos {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.footer-cert-logo {
+  height: 48px;
+  width: auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(31,160,255,0.08);
+  padding: 4px 8px;
+}
+
+.footer-bottom-line {
+  margin-top: 42px;
+  height: 2px;
+  background: #e4eaf1;
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .footer-inner {
+    flex-direction: column;
+    gap: 38px;
+    padding: 0 8px;
+  }
+  .footer-col {
+    max-width: 100%;
+    min-width: 0;
+  }
+  .footer-cert-logo {
+    height: 38px;
+  }
+}
