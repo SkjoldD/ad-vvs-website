@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ad-vvs-website/static/css/main.a0b80708.css",
-    "main.js": "/ad-vvs-website/static/js/main.dda84370.js",
+    "main.js": "/ad-vvs-website/static/js/main.6daa113e.js",
     "static/media/backgroundvid01.mp4": "/ad-vvs-website/static/media/backgroundvid01.2e8b75a4dd33a9941b7f.mp4",
     "static/media/ai-logo.png": "/ad-vvs-website/static/media/ai-logo.adb75323a1c325268f90.png",
     "index.html": "/ad-vvs-website/index.html",
     "main.a0b80708.css.map": "/ad-vvs-website/static/css/main.a0b80708.css.map",
-    "main.dda84370.js.map": "/ad-vvs-website/static/js/main.dda84370.js.map"
+    "main.6daa113e.js.map": "/ad-vvs-website/static/js/main.6daa113e.js.map"
   },
   "entrypoints": [
     "static/css/main.a0b80708.css",
-    "static/js/main.dda84370.js"
+    "static/js/main.6daa113e.js"
   ]
 }
