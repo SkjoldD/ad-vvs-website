@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="hero-container">
       <video className="hero-bg-video" autoPlay loop muted playsInline>
-        <source src={require('../assets/ai-vid.mp4')} type="video/mp4" />
+        <source src={require('../assets/backgroundvid01.mp4')} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="hero-content">
