@@ -24,7 +24,7 @@ const ServiceBookingSection = () => {
           </div>
           <div className="service-btns">
             <a href="#" className="service-btn-green">Få et gratis tilbud →</a>
-            <a href="tel:26333473" className="service-btn-blue">Service tlf. 26 33 3473</a>
+            <a href="tel:26333473" className="service-btn-blue">Service tlf. 00 00 00 00</a>
           </div>
         </div>
         {/* Right Column */}
