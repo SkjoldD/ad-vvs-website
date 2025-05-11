@@ -20,7 +20,7 @@ const Footer = () => {
               {/* Phone icon */}
               <svg width="18" height="18" fill="none" stroke="#7dac20" strokeWidth="2" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2A19.72 19.72 0 0 1 3.09 5.18 2 2 0 0 1 5.11 3h3a2 2 0 0 1 2 1.72c.13 1.05.37 2.07.71 3.06a2 2 0 0 1-.45 2.11l-1.27 1.27a16 16 0 0 0 6.29 6.29l1.27-1.27a2 2 0 0 1 2.11-.45c.99.34 2.01.58 3.06.71A2 2 0 0 1 22 16.92z"></path></svg>
             </span>
-            Ring til os<br />Tlf. +45 51 23 62 05
+            Ring til os<br />Tlf. +00 00 00 00
           </div>
           <div className="footer-item">
             <span className="footer-icon">

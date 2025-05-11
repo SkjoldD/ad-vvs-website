@@ -33,7 +33,7 @@ const Hero = () => {
             En varmepumpe kan spare dig op til 70% på varmeregningen. Hos Gram Energi specialiserer vi os i at levere og montere varmepumper og aircondition fra mærkerne Panasonic og Mitsubishi til vores kunder over hele Sjælland.
           </p>
           <a href="#" className="hero-btn hero-btn-green">Få et gratis tilbud →</a>
-          <a href="tel:51236205" className="hero-btn hero-btn-blue">📞 Tlf. 51 23 62 05</a>
+          <a href="tel:51236205" className="hero-btn hero-btn-blue">📞 Tlf. 00 00 00 00</a>
         </div>
       </div>
     </section>

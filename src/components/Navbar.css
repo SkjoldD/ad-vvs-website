@@ -465,18 +465,6 @@
 }
 
 
-/* .navbar-logo removed for image-based logo */
-
-/* Make the last menu item and its icon smaller */
-.navbar-menu li:last-child a {
-  padding: 0 3px !important;
-}
-.navbar-menu li:last-child .navbar-icon {
-  font-size: 0.85rem;
-  margin-right: 3px;
-}
-
-
 .navbar-menu {
   display: flex;
   align-items: center;
