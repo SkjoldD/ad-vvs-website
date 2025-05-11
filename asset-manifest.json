@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SkjoldD/ad-vvs-website/static/css/main.6f2c582a.css",
+    "main.js": "/SkjoldD/ad-vvs-website/static/js/main.c202a551.js",
+    "static/media/ai-logo.png": "/SkjoldD/ad-vvs-website/static/media/ai-logo.adb75323a1c325268f90.png",
+    "static/media/ai-vid.mp4": "/SkjoldD/ad-vvs-website/static/media/ai-vid.651e4c50bb430e0d138b.mp4",
+    "index.html": "/SkjoldD/ad-vvs-website/index.html",
+    "main.6f2c582a.css.map": "/SkjoldD/ad-vvs-website/static/css/main.6f2c582a.css.map",
+    "main.c202a551.js.map": "/SkjoldD/ad-vvs-website/static/js/main.c202a551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f2c582a.css",
+    "static/js/main.c202a551.js"
+  ]
+}
