@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f2c582a.css",
+    "main.js": "/static/js/main.3c1bfac4.js",
+    "static/media/ai-logo.png": "/static/media/ai-logo.adb75323a1c325268f90.png",
+    "static/media/ai-vid.mp4": "/static/media/ai-vid.651e4c50bb430e0d138b.mp4",
+    "index.html": "/index.html",
+    "main.6f2c582a.css.map": "/static/css/main.6f2c582a.css.map",
+    "main.3c1bfac4.js.map": "/static/js/main.3c1bfac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f2c582a.css",
+    "static/js/main.3c1bfac4.js"
+  ]
+}
