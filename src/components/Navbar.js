@@ -39,7 +39,7 @@ const Navbar = () => {
       </ul>
       {/* Right: Phone button */}
       <div className="navbar-right">
-        <a href="tel:51236205" className="navbar-phone-btn">📞 Tlf. 51 23 62 05</a>
+        <a href="tel:51236205" className="navbar-phone-btn">📞 Tlf. 00 00 00 00</a>
       </div>
     </nav>
   );
